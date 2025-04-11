@@ -39,7 +39,7 @@ O grande diferencial do BrinCalango está em seu compromisso com a acessibilidad
 ### [Mapa Mental](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G1_JogoEducacional_Entrega_01/#/Base/1.2.ArtefatoGeneralista?id=mapa-mental)
 ![image](https://github.com/user-attachments/assets/5edfb2e5-ca30-4728-ac6f-9d272589d4b7)
 
-
+### [BPMN](https://unbarqdsw2025-1-turma02.github.io/2025.1-T02-_G1_JogoEducacional_Entrega_01/#/Base/1.3.ModelagemBPMN) ![image](https://raw.githubusercontent.com/UnBArqDsw2025-1-Turma02/2025.1-T02-_G1_JogoEducacional_Entrega_01/3dd161d59826764efb0bd7af44de965f4ebef888/docs/Base/bpmn.svg)
 ## Há algo a ser executado?
 
 ( ) SIM
